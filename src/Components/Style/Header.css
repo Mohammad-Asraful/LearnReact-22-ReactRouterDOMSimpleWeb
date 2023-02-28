@@ -1,0 +1,17 @@
+.active {
+  color: red;
+}
+
+.service-items:hover ul {
+  display: block;
+}
+
+ul li {
+  background-color: gray;
+  padding: 3px 10px;
+  color: white;
+}
+
+ul li:hover {
+  background: #759ba5;
+}
